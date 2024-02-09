@@ -1,6 +1,5 @@
 # communication-module
-
-##https://github.com/chandrawi/LoRaRF-Python의 모듈을 사용
+#https://github.com/chandrawi/LoRaRF-Python의 모듈을 사용
 ##SX127x, SX126x중 SX127x라이브러리 사용
 ##기계의 스펙은 라즈베리파이4, LoRa모듈은 SX1276사용
 
